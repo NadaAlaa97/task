@@ -1,16 +1,6 @@
 # task_leadvision
 
-A new Flutter project.
+![1](https://github.com/user-attachments/assets/7f5a1037-63e8-48cd-b48b-5103cdbdfc5b)
+![2](https://github.com/user-attachments/assets/6be5f017-b746-44d6-91cc-447392a9918c)
+![3](https://github.com/user-attachments/assets/bd87edf2-b4da-4d17-bd61-0a0b489ff286)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

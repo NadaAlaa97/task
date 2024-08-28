@@ -1,6 +1,5 @@
 # task_leadvision
 
-![1](https://github.com/user-attachments/assets/7f5a1037-63e8-48cd-b48b-5103cdbdfc5b)
-![2](https://github.com/user-attachments/assets/6be5f017-b746-44d6-91cc-447392a9918c)
-![3](https://github.com/user-attachments/assets/bd87edf2-b4da-4d17-bd61-0a0b489ff286)
-
+![1](https://github.com/user-attachments/assets/6370c460-9eea-4bce-ba76-5a15ce373310)
+![2](https://github.com/user-attachments/assets/56bfaf34-1800-441f-a7ff-8fdb13662a57)
+![3](https://github.com/user-attachments/assets/98832d1a-470f-4446-8237-e19a4a1075a3)

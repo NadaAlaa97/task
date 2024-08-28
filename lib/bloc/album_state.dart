@@ -5,13 +5,12 @@ sealed class AlbumState {}
 
 final class AlbumInitial extends AlbumState {}
 
+final class AlbumLoading extends AlbumState {}
+
+
 final class AlbumSuccess extends AlbumState {
   final List<Album> albums;
-  final bool pageMax;
-  AlbumSuccess({required this.albums, required this.pageMax});
+  AlbumSuccess({required this.albums});
 }
 
-final class AlbumError extends AlbumState {
-  final String message;
-  AlbumError({required this.message});
-}
+final class AlbumError extends AlbumState {}
